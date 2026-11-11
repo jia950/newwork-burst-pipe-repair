@@ -1,0 +1,13 @@
+{
+  "redirects": [
+    { "source": "/wheeling-il.html", "destination": "/areas/wheeling-il.html", "permanent": true },
+    { "source": "/riverwoods-il.html", "destination": "/areas/riverwoods-il.html", "permanent": true },
+    { "source": "/repair-or-replace-old-pipes.html", "destination": "/blog/repair-or-replace-old-pipes.html", "permanent": true },
+    { "source": "/after-a-plumbing-leak.html", "destination": "/blog/after-a-plumbing-leak.html", "permanent": true },
+    { "source": "/how-to-find-main-water-shutoff.html", "destination": "/blog/how-to-find-main-water-shutoff.html", "permanent": true },
+    { "source": "/what-to-do-when-a-pipe-bursts.html", "destination": "/blog/what-to-do-when-a-pipe-bursts.html", "permanent": true },
+    { "source": "/signs-of-a-slab-leak.html", "destination": "/blog/signs-of-a-slab-leak.html", "permanent": true },
+    { "source": "/small-pipe-leak-warning-signs.html", "destination": "/blog/small-pipe-leak-warning-signs.html", "permanent": true },
+    { "source": "/questions-to-ask-a-plumber.html", "destination": "/blog/questions-to-ask-a-plumber.html", "permanent": true }
+  ]
+}

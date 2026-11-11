@@ -1,0 +1,11 @@
+Primary keyword per page (placed in title, H1, first paragraph, headings, image alt text and meta description)
+Home: burst pipe repair Buffalo Grove IL
+services/burst-pipe-repair.html: burst pipe repair Buffalo Grove IL
+services/frozen-pipe-repair.html: frozen pipe repair Buffalo Grove IL
+services/pipe-leak-repair.html: pipe leak repair Buffalo Grove IL
+services/slab-leak-repair.html: slab leak repair Buffalo Grove IL
+services/emergency-plumbing.html: emergency plumbing help Buffalo Grove IL
+services/pipe-replacement.html: pipe repair and replacement Buffalo Grove IL
+services/water-shutoff-help.html: main water shutoff valve help Buffalo Grove IL
+services/water-damage-cleanup.html: water damage cleanup after a plumbing leak Buffalo Grove IL
+areas/<city>-il.html: burst pipe repair <City> IL (Buffalo Grove, Wheeling, Arlington Heights, Lincolnshire, Vernon Hills, Long Grove, Riverwoods)
